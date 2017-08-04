@@ -1,0 +1,2 @@
+# College-Leave-System
+Leave System is an mobile application for the staff of the college. This app is designed such that the user can request leave or manage leave requests from a mobile device while on the go. User can request leaves by filling in an intuitive leave application form and submit them to the moderator who will further sanction the leave and send it to the admin for approving. The admin can in turn check the requestor’s leave and approve / reject the leave. The moderator will also assign the duties in place of the user’s place.
